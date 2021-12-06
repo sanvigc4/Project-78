@@ -1,0 +1,27 @@
+  body{
+      background-color: aquamarine;
+
+  }
+  button{
+      height:40px;
+      width: 50px;
+      background-color: darkmagenta;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      border-radius: 50px;
+  }
+  h1{
+    font-family: 'Fuzzy Bubbles', cursive;
+    color:indigo;
+  }
+  img{
+      width:200px;
+      height:300px;
+      border-radius: 32px;
+      border-width: 5px;
+      border-color:midnightblue;
+      border-style:groove;
+  }
+  h4{
+      color:darkred;
+      font-family: 'Fuzzy Bubbles', cursive;
+  }
